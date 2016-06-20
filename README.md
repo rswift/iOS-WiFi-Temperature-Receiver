@@ -24,9 +24,11 @@ The JSON payload is simple, I posted to the Roastmaster Forum with my thoughts, 
 
 # Some links
 Broadcast app for ESP8266: https://github.com/rswift/wifi-temperature-broadcast/blob/master/WiFiTemperatureBroadcast.ino
+
 Roasthacker: http://roasthacker.com/?p=529 & http://roasthacker.com/?p=552
-SwiftSocket: https://github.com/swiftsocket/SwiftSocket
-ysocket files I copied into Xcode: https://github.com/swiftsocket/SwiftSocket/tree/master/SwiftSocket/ysocket
+
+SwiftSocket: https://github.com/swiftsocket/SwiftSocket and the ysocket files I copied into Xcode: https://github.com/swiftsocket/SwiftSocket/tree/master/SwiftSocket/ysocket
+
 Roastmaster forum: https://rainfroginc.com/frogpad/index.php?topic=154.0
 
 The icon is a hack of two icons downloaded from www.flaticon.com, the WiFi symbol was made by SimpleIcon and can be found here http://www.flaticon.com/free-icon/wifi-medium-signal-symbol_34143 and the thermometer icon was made by Freepik and can be found here http://www.flaticon.com/free-icon/thermometer-2svg_124971 both icons are used under the Creative Commons BY 3.0 licence which can be found here https://creativecommons.org/licenses/by/3.0/ and obviously if anyone wants to develop this work further, please ensure the original creators are linked, otherwise, not cool...
