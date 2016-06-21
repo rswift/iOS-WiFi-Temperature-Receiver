@@ -28,6 +28,6 @@ xcuserdata/
 *.dSYM
 
 #
-# ysocket
+# don't include ysocket in the commit...
 #
 ysocket/
