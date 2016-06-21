@@ -69,10 +69,6 @@ class ViewController: UIViewController, UITableViewDelegate {
 	@IBOutlet var viewToBlur: UIView!
 	override func viewDidLoad() {
 		super.viewDidLoad()
-
-		let visualEffectView = UIVisualEffectView(effect: UIBlurEffect(style: .Light))
-		visualEffectView.frame = viewToBlur.bounds
-		viewToBlur.addSubview(visualEffectView)
 	}
 
 	override func viewWillAppear(animated: Bool) {
