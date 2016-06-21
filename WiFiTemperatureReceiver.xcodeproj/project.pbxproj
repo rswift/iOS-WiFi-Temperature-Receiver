@@ -12,14 +12,14 @@
 		E1A4152C1CDA21300073D816 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1A4152A1CDA21300073D816 /* Main.storyboard */; };
 		E1A4152E1CDA21300073D816 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E1A4152D1CDA21300073D816 /* Assets.xcassets */; };
 		E1A415311CDA21300073D816 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1A4152F1CDA21300073D816 /* LaunchScreen.storyboard */; };
-		E1A4D2B81CFF28D100690FB3 /* ysocket.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1A4D2B31CFF28D100690FB3 /* ysocket.swift */; };
-		E1A4D2B91CFF28D100690FB3 /* ytcpsocket.c in Sources */ = {isa = PBXBuildFile; fileRef = E1A4D2B41CFF28D100690FB3 /* ytcpsocket.c */; };
-		E1A4D2BA1CFF28D100690FB3 /* ytcpsocket.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1A4D2B51CFF28D100690FB3 /* ytcpsocket.swift */; };
-		E1A4D2BB1CFF28D100690FB3 /* yudpsocket.c in Sources */ = {isa = PBXBuildFile; fileRef = E1A4D2B61CFF28D100690FB3 /* yudpsocket.c */; };
-		E1A4D2BC1CFF28D100690FB3 /* yudpsocket.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1A4D2B71CFF28D100690FB3 /* yudpsocket.swift */; };
 		E1ABDE5B1D04B81B00E8657E /* ServerSingleton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1ABDE5A1D04B81B00E8657E /* ServerSingleton.swift */; };
 		E1ABDE5D1D0B11F200E8657E /* WiFi Broadcast.icns in Resources */ = {isa = PBXBuildFile; fileRef = E1ABDE5C1D0B11F200E8657E /* WiFi Broadcast.icns */; };
 		E1C042101D19C690006C12E6 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = E1C0420F1D19C690006C12E6 /* .gitignore */; };
+		E1C042171D19C9CE006C12E6 /* ysocket.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1C042121D19C9CE006C12E6 /* ysocket.swift */; };
+		E1C042181D19C9CE006C12E6 /* ytcpsocket.c in Sources */ = {isa = PBXBuildFile; fileRef = E1C042131D19C9CE006C12E6 /* ytcpsocket.c */; };
+		E1C042191D19C9CE006C12E6 /* ytcpsocket.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1C042141D19C9CE006C12E6 /* ytcpsocket.swift */; };
+		E1C0421A1D19C9CE006C12E6 /* yudpsocket.c in Sources */ = {isa = PBXBuildFile; fileRef = E1C042151D19C9CE006C12E6 /* yudpsocket.c */; };
+		E1C0421B1D19C9CE006C12E6 /* yudpsocket.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1C042161D19C9CE006C12E6 /* yudpsocket.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,14 +30,14 @@
 		E1A4152D1CDA21300073D816 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E1A415301CDA21300073D816 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E1A415321CDA21300073D816 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E1A4D2B31CFF28D100690FB3 /* ysocket.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ysocket.swift; sourceTree = "<group>"; };
-		E1A4D2B41CFF28D100690FB3 /* ytcpsocket.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ytcpsocket.c; sourceTree = "<group>"; };
-		E1A4D2B51CFF28D100690FB3 /* ytcpsocket.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ytcpsocket.swift; sourceTree = "<group>"; };
-		E1A4D2B61CFF28D100690FB3 /* yudpsocket.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = yudpsocket.c; sourceTree = "<group>"; };
-		E1A4D2B71CFF28D100690FB3 /* yudpsocket.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = yudpsocket.swift; sourceTree = "<group>"; };
 		E1ABDE5A1D04B81B00E8657E /* ServerSingleton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ServerSingleton.swift; sourceTree = "<group>"; };
 		E1ABDE5C1D0B11F200E8657E /* WiFi Broadcast.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = "WiFi Broadcast.icns"; sourceTree = "<group>"; };
 		E1C0420F1D19C690006C12E6 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		E1C042121D19C9CE006C12E6 /* ysocket.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ysocket.swift; sourceTree = "<group>"; };
+		E1C042131D19C9CE006C12E6 /* ytcpsocket.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = ytcpsocket.c; sourceTree = "<group>"; };
+		E1C042141D19C9CE006C12E6 /* ytcpsocket.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ytcpsocket.swift; sourceTree = "<group>"; };
+		E1C042151D19C9CE006C12E6 /* yudpsocket.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = yudpsocket.c; sourceTree = "<group>"; };
+		E1C042161D19C9CE006C12E6 /* yudpsocket.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = yudpsocket.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,7 +70,7 @@
 		E1A415251CDA21300073D816 /* WiFiTemperatureReceiver */ = {
 			isa = PBXGroup;
 			children = (
-				E1A4D2B21CFF28D100690FB3 /* ysocket */,
+				E1C042111D19C9CE006C12E6 /* ysocket */,
 				E1A415261CDA21300073D816 /* AppDelegate.swift */,
 				E1A415281CDA21300073D816 /* ViewController.swift */,
 				E1A4152A1CDA21300073D816 /* Main.storyboard */,
@@ -84,17 +84,16 @@
 			path = WiFiTemperatureReceiver;
 			sourceTree = "<group>";
 		};
-		E1A4D2B21CFF28D100690FB3 /* ysocket */ = {
+		E1C042111D19C9CE006C12E6 /* ysocket */ = {
 			isa = PBXGroup;
 			children = (
-				E1A4D2B31CFF28D100690FB3 /* ysocket.swift */,
-				E1A4D2B41CFF28D100690FB3 /* ytcpsocket.c */,
-				E1A4D2B51CFF28D100690FB3 /* ytcpsocket.swift */,
-				E1A4D2B61CFF28D100690FB3 /* yudpsocket.c */,
-				E1A4D2B71CFF28D100690FB3 /* yudpsocket.swift */,
+				E1C042121D19C9CE006C12E6 /* ysocket.swift */,
+				E1C042131D19C9CE006C12E6 /* ytcpsocket.c */,
+				E1C042141D19C9CE006C12E6 /* ytcpsocket.swift */,
+				E1C042151D19C9CE006C12E6 /* yudpsocket.c */,
+				E1C042161D19C9CE006C12E6 /* yudpsocket.swift */,
 			);
-			name = ysocket;
-			path = ../ysocket;
+			path = ysocket;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -170,14 +169,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E1A4D2B81CFF28D100690FB3 /* ysocket.swift in Sources */,
+				E1C042191D19C9CE006C12E6 /* ytcpsocket.swift in Sources */,
 				E1A415291CDA21300073D816 /* ViewController.swift in Sources */,
 				E1ABDE5B1D04B81B00E8657E /* ServerSingleton.swift in Sources */,
-				E1A4D2BB1CFF28D100690FB3 /* yudpsocket.c in Sources */,
-				E1A4D2B91CFF28D100690FB3 /* ytcpsocket.c in Sources */,
+				E1C042171D19C9CE006C12E6 /* ysocket.swift in Sources */,
 				E1A415271CDA21300073D816 /* AppDelegate.swift in Sources */,
-				E1A4D2BA1CFF28D100690FB3 /* ytcpsocket.swift in Sources */,
-				E1A4D2BC1CFF28D100690FB3 /* yudpsocket.swift in Sources */,
+				E1C042181D19C9CE006C12E6 /* ytcpsocket.c in Sources */,
+				E1C0421B1D19C9CE006C12E6 /* yudpsocket.swift in Sources */,
+				E1C0421A1D19C9CE006C12E6 /* yudpsocket.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
