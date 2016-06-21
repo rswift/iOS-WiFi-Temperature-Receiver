@@ -66,7 +66,6 @@ class ViewController: UIViewController, UITableViewDelegate {
 
 	@IBOutlet var tableView: UITableView!
 
-	@IBOutlet var viewToBlur: UIView!
 	override func viewDidLoad() {
 		super.viewDidLoad()
 	}
