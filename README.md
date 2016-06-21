@@ -16,7 +16,7 @@ This was built on iOS 9 in Xcode 7.3, works a treat.
 The JSON payload is simple, I posted to the Roastmaster Forum with my thoughts, I fully expect far more development of the payload before it is actually useful. It is kept simple:
 - the probe name
 - the temperature in celsius
-- the temperature in farhenheit
+- the temperature in fahrenheit
 - optionally an array of debug data which isn't worth describing here so check the WiFiTemperatureBroadcast.ino file for details
 
 # ToDo
