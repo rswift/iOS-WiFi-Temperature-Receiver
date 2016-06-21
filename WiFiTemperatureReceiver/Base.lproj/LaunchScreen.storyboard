@@ -24,8 +24,8 @@
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" text="Icon hacked together two icons made by SimpleIcon &amp; Freepik Both from www.flaticon.com Creative Commons BY 3.0" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gzp-gf-cX6">
-                                <rect key="frame" x="-149" y="496" width="900" height="55"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Icon hacked together two icons made by SimpleIcon &amp; Freepik Both from www.flaticon.com Creative Commons BY 3.0" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gzp-gf-cX6">
+                                <rect key="frame" x="20" y="510" width="560" height="41"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
@@ -40,6 +40,9 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
+                            <constraint firstItem="gzp-gf-cX6" firstAttribute="trailing" secondItem="U4p-dR-Yx7" secondAttribute="trailingMargin" id="7OH-iH-FEt"/>
+                            <constraint firstItem="4jv-Kr-bVw" firstAttribute="top" secondItem="gzp-gf-cX6" secondAttribute="bottom" constant="49" id="Epo-1Q-1iY"/>
+                            <constraint firstItem="gzp-gf-cX6" firstAttribute="leading" secondItem="U4p-dR-Yx7" secondAttribute="leadingMargin" id="PUM-Cs-TCN"/>
                             <constraint firstItem="pTx-m7-XCa" firstAttribute="centerX" secondItem="U4p-dR-Yx7" secondAttribute="centerX" id="fRn-wR-U6Q"/>
                             <constraint firstItem="pTx-m7-XCa" firstAttribute="top" secondItem="Wyu-Jn-53v" secondAttribute="bottom" constant="15" id="ij8-mq-9DN"/>
                             <constraint firstItem="Wyu-Jn-53v" firstAttribute="centerX" secondItem="U4p-dR-Yx7" secondAttribute="centerX" id="lgM-5Q-9SY"/>
@@ -49,6 +52,12 @@
                             <constraint firstItem="gzp-gf-cX6" firstAttribute="centerX" secondItem="U4p-dR-Yx7" secondAttribute="centerX" id="yLq-xR-UDT"/>
                             <constraint firstItem="gzp-gf-cX6" firstAttribute="leading" secondItem="U4p-dR-Yx7" secondAttribute="leadingMargin" constant="33" id="yUM-4G-t8i"/>
                         </constraints>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="uyV-Ye-ZJk"/>
+                                <exclude reference="yUM-4G-t8i"/>
+                            </mask>
+                        </variation>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
