@@ -6,7 +6,7 @@
 //  Copyright © 2016 vooey. All rights reserved.
 //
 
-//hat tip: http://krakendev.io/blog/the-right-way-to-write-a-singleton
+// hat tip: http://krakendev.io/blog/the-right-way-to-write-a-singleton
 class ServerSingleton {
 	static let serverStatus = ServerSingleton()
 	private init() {}
